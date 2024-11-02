@@ -1,30 +1,11 @@
-### Hello, I'm Manfred!
+# Hi there! 👋
 
-I'm currently studying computer science and engineering at Chalmers Univeristy of Technology
-<br>
-<br>
-Here are some languages and tools I like to use:
-<div style="background-color:white;">
-	<!-- Languages -->
-  	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C logo" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++ logo" width="40" height="40"/>&nbsp;
-  	<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C# logo" width="40" height="40"/>&nbsp;
-  	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java logo" width="40" height="40"/>&nbsp;
-  	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python logo" width="40" height="40"/>&nbsp;
-	<br><!-- Tools -->
-	<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual studio logo" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code logo" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity logo" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ logo" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello logo" width="40" height="40"/>&nbsp;
-</div>
-<br>
+I'm a **computer science enthusiast** currently pursuing my Master's in High Performance Computing at Chalmers University of Technology, where I also completed my Bachelor's in Computer Science and Engineering. I'm on track to graduate in summer 2025.
 
-<br>
+Currently, I work part-time at **Ericsson**, where I apply my skills to real-world challenges and contribute to innovative projects. With **two years of full-time experience in C++**, I’ve developed a strong passion for writing robust, reliable code. I’m especially drawn to projects with **high safety requirements**, where rigorous CI processes, static analysis, unit-testing, and coding standards are prioritized to ensure robust and maintainable software.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manfred-Hastmark&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Recently, I’ve been deeply involved in **Chalmers Formula Student**, focusing on the embedded software for the car's systems. I helped create a Battery Management System (BMS) and led the restructuring and unit-testing of the entire codebase. Additionally, I developed a client for our in-house inverters using **C++20**, setting up a modular **CMake build system** that cross-compiles to both Windows and Linux. These projects have refined my skills in code architecture, structure, and the latest C++ standards.
 
-Below are also some pinned projects which I think are the most interesting
+I primarily code in **C++**, with experience in tools like **clangd**, **Clang**, **CMake**, and some **C**. Outside of tech, I enjoy unwinding with walks or runs through the forest.
 
-
-
+Looking ahead, I’m interested in contributing to **open-source projects** and eventually working in **high-safety fields** like aerospace or defense, where robust and secure software is critical. Feel free to reach out if you’re interested in collaborating, I’d love to connect!
